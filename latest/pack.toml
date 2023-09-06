@@ -1,0 +1,13 @@
+name = "Vanilla Performance"
+author = "ryleu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c237173cc87ff4cfe82be6168be49a99fa606c1f4c470046a272796f7123e701"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.2"
